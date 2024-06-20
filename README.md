@@ -33,7 +33,6 @@ Make sure you have the following installed on your development machine:
    ```bash
    npm install
 
-
 3. **Running the Project**
 
    ```bash
