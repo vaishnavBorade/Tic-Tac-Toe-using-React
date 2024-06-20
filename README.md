@@ -26,8 +26,6 @@ Make sure you have the following installed on your development machine:
 
    ```bash
    git clone https://github.com/your-username/tic-tac-toe-react.git
-   
-   ```bash
    cd tic-tac-toe-react
 
 2. **Install the dependencies**
