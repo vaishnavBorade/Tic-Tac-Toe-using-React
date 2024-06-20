@@ -29,9 +29,13 @@ Make sure you have the following installed on your development machine:
    cd tic-tac-toe-react
 
 2. **Install the dependencies**
+
+```bash
   npm install
 
 3. **Running the Project**
+
+```bash
   To start the development server, run:
   npm run dev
 
